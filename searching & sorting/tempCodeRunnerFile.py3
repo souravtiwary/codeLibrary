@@ -1,0 +1,1 @@
+arr[i],arr[j],arr[l],arr[r]
